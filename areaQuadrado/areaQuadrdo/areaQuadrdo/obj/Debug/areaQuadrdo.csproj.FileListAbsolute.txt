@@ -1,0 +1,10 @@
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\bin\Debug\areaQuadrdo.exe.config
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\bin\Debug\areaQuadrdo.exe
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\bin\Debug\areaQuadrdo.pdb
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\obj\Debug\areaQuadrdo.csproj.AssemblyReference.cache
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\obj\Debug\areaQuadrdo.Form1.resources
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\obj\Debug\areaQuadrdo.Properties.Resources.resources
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\obj\Debug\areaQuadrdo.csproj.GenerateResource.cache
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\obj\Debug\areaQuadrdo.csproj.CoreCompileInputs.cache
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\obj\Debug\areaQuadrdo.exe
+H:\logp\areaQuadrado\areaQuadrdo\areaQuadrdo\obj\Debug\areaQuadrdo.pdb
