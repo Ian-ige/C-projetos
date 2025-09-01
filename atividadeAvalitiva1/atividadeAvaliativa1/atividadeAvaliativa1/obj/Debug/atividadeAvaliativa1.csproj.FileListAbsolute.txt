@@ -1,0 +1,15 @@
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.csproj.AssemblyReference.cache
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.exercicio10.resources
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.Properties.Resources.resources
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.csproj.GenerateResource.cache
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.csproj.CoreCompileInputs.cache
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\bin\Debug\atividadeAvaliativa1.exe.config
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\bin\Debug\atividadeAvaliativa1.exe
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\bin\Debug\atividadeAvaliativa1.pdb
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.exe
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.pdb
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.exercicio11.resources
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.exercicio12.resources
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.exercicio13.resources
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.exercicio14.resources
+H:\logp\atividadeAvalitiva1\atividadeAvaliativa1\atividadeAvaliativa1\obj\Debug\atividadeAvaliativa1.exercicio15.resources
