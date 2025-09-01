@@ -1,0 +1,11 @@
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\bin\Debug\exe9pag81.exe.config
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\bin\Debug\exe9pag81.exe
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\bin\Debug\exe9pag81.pdb
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\obj\Debug\exe9pag81.csproj.AssemblyReference.cache
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\obj\Debug\exe9pag81.Form1.resources
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\obj\Debug\exe9pag81.Properties.Resources.resources
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\obj\Debug\exe9pag81.csproj.GenerateResource.cache
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\obj\Debug\exe9pag81.csproj.CoreCompileInputs.cache
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\obj\Debug\exe9pag81.exe
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\obj\Debug\exe9pag81.pdb
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\exe9pag81\exe9pag81\obj\Debug\exe9pag81.exe.config

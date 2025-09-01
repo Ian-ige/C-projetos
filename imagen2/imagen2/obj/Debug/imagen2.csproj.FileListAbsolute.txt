@@ -1,0 +1,11 @@
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\obj\Debug\imagen2.csproj.AssemblyReference.cache
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\obj\Debug\imagen2.Form1.resources
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\obj\Debug\imagen2.Properties.Resources.resources
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\obj\Debug\imagen2.csproj.GenerateResource.cache
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\obj\Debug\imagen2.csproj.CoreCompileInputs.cache
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\bin\Debug\imagen2.exe.config
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\bin\Debug\imagen2.exe
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\bin\Debug\imagen2.pdb
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\obj\Debug\imagen2.exe
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\obj\Debug\imagen2.pdb
+C:\Users\ianfi\Desktop\escola\logp\AtividadeAvaliativa5\imagen2\imagen2\obj\Debug\imagen2.exe.config
