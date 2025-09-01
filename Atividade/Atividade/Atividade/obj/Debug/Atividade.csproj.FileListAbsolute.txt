@@ -1,0 +1,12 @@
+H:\logp\Atividade\Atividade\Atividade\bin\Debug\Atividade.exe.config
+H:\logp\Atividade\Atividade\Atividade\bin\Debug\Atividade.exe
+H:\logp\Atividade\Atividade\Atividade\bin\Debug\Atividade.pdb
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.csproj.AssemblyReference.cache
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.Form1.resources
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.Properties.Resources.resources
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.csproj.GenerateResource.cache
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.csproj.CoreCompileInputs.cache
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.exe
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.pdb
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.Exercicio6.resources
+H:\logp\Atividade\Atividade\Atividade\obj\Debug\Atividade.Exercicio9.resources
